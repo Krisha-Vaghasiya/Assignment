@@ -1,0 +1,10 @@
+import { z } from 'zod';
+const text = (max = 200) => z.string().trim().max(max);
+const photo = text(2048).refine(v => v.startsWith('/site-assets/') || /^\/api\/public\/manage\/files\/[a-f0-9]{24}$/.test(v) || /^https:\/\//.test(v), 'Use an uploaded photo or HTTPS image URL');
+export const puppySchema = z.object({ name: text(120).min(2), slug: text(150).regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/), breed: text(120).min(2), sex: z.enum(['boy', 'girl', 'boy & girl']), age: text(80), description: text(5000), status: z.enum(['available', 'reserved', 'gone-home', 'draft']), photos: z.array(photo).min(1).max(20), order: z.number().int().min(0).default(0) }).strict();
+export const faqSchema = z.object({ question: text(300).min(3), answer: text(5000).min(3), published: z.boolean(), order: z.number().int().min(0).default(0) }).strict();
+export const storySchema = z.object({ name: text(120).min(2), caption: text(2000), photo, published: z.boolean(), order: z.number().int().min(0).default(0) }).strict();
+export const inquirySchema = z.object({ name: text(80).min(2), phone: text(30).regex(/^\+?[\d ()-]{7,30}$/, 'Enter a valid phone number'), email: z.union([z.literal(''), z.string().trim().email().max(254)]).default(''), area: text(80).default(''), puppyId: text(150).default(''), message: text(2000).default(''), website: text(200).default('') }).strict();
+export const loginSchema = z.object({ email: z.string().trim().email().max(254).transform(v => v.toLowerCase()), password: z.string().min(1).max(128) }).strict();
+export const inquiryStatusSchema = z.object({ status: z.enum(['new', 'contacted', 'closed']) }).strict();
+export const schemas = { puppies: puppySchema, faqs: faqSchema, stories: storySchema };

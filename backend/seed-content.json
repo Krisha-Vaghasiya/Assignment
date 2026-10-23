@@ -1,0 +1,770 @@
+{
+  "puppies": [
+    {
+      "name": "Max",
+      "slug": "maltipoo-max-male",
+      "breed": "Maltipoo",
+      "sex": "boy",
+      "age": "",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/cea209d15304b1ea.webp"
+      ],
+      "order": 0
+    },
+    {
+      "name": "Korean Teacup Maltipoo",
+      "slug": "korean-teacup-maltipoo-female",
+      "breed": "Korean Teacup Maltipoo",
+      "sex": "girl",
+      "age": "2 months",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/e6da117c97c06713.webp"
+      ],
+      "order": 1
+    },
+    {
+      "name": "Korean Teacup Poodle",
+      "slug": "korean-teacup-poodle-female",
+      "breed": "Korean Teacup Poodle",
+      "sex": "girl",
+      "age": "2 months",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/8cedd9b3f8809baa.webp"
+      ],
+      "order": 2
+    },
+    {
+      "name": "Maltipoo & Cavapoo",
+      "slug": "maltipoo-cavapoo-male",
+      "breed": "Maltipoo & Cavapoo",
+      "sex": "boy",
+      "age": "3 months Maltipoo & 2 months Cavapoo",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/84d3163c59ce7ee8.webp"
+      ],
+      "order": 3
+    },
+    {
+      "name": "Toy Poodle",
+      "slug": "toy-poodle-male-female",
+      "breed": "Toy Poodle",
+      "sex": "boy & girl",
+      "age": "2 months",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/dc625c548157bb50.webp"
+      ],
+      "order": 4
+    },
+    {
+      "name": "Maltipoo",
+      "slug": "maltipoo-female-2",
+      "breed": "Maltipoo",
+      "sex": "girl",
+      "age": "3 months",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/c585109ea25c2e99.webp"
+      ],
+      "order": 5
+    },
+    {
+      "name": "Pomeranian",
+      "slug": "pomeranian-female",
+      "breed": "Pomeranian",
+      "sex": "girl",
+      "age": "3 months",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/8e30a1b23199a315.webp"
+      ],
+      "order": 6
+    },
+    {
+      "name": "Copper",
+      "slug": "copper-male",
+      "breed": "Cavapoo",
+      "sex": "boy",
+      "age": "",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/f1970628bd47aa03.webp"
+      ],
+      "order": 7
+    },
+    {
+      "name": "Shih Tzu",
+      "slug": "shitzu-female",
+      "breed": "Shih Tzu",
+      "sex": "girl",
+      "age": "2 months",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/bd0260d67616fa4d.webp"
+      ],
+      "order": 8
+    },
+    {
+      "name": "Shih Tzu",
+      "slug": "shitzu-male",
+      "breed": "Shih Tzu",
+      "sex": "boy",
+      "age": "2 months",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/9b9a072342b8d292.webp"
+      ],
+      "order": 9
+    },
+    {
+      "name": "Maltipoo",
+      "slug": "maltipoo-female-1",
+      "breed": "Maltipoo",
+      "sex": "girl",
+      "age": "2.5 months",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/63dd07fed7cffb5b.webp"
+      ],
+      "order": 10
+    },
+    {
+      "name": "Maltipoo",
+      "slug": "maltipoo-female",
+      "breed": "Maltipoo",
+      "sex": "girl",
+      "age": "2 months",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/5f0ddf00c5c12f99.webp"
+      ],
+      "order": 11
+    },
+    {
+      "name": "Korean Teacup Pomeranian",
+      "slug": "korean-teacup-pomeranian-1",
+      "breed": "Korean Teacup Pomeranian",
+      "sex": "girl",
+      "age": "2 months",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/ee08a190d5396295.webp"
+      ],
+      "order": 12
+    },
+    {
+      "name": "Korean Teacup Pomeranian",
+      "slug": "korean-teacup-pomeranian",
+      "breed": "Korean Teacup Pomeranian",
+      "sex": "girl",
+      "age": "2 months",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/a578504af6320a72.webp"
+      ],
+      "order": 13
+    },
+    {
+      "name": "Korean Teacup Pomeranian",
+      "slug": "korean-teacup-pomeranian-male",
+      "breed": "Korean Teacup Pomeranian",
+      "sex": "boy",
+      "age": "2 months",
+      "description": "",
+      "status": "available",
+      "photos": [
+        "/site-assets/aed90b4f03b25a5c.webp"
+      ],
+      "order": 14
+    },
+    {
+      "name": "Ace",
+      "slug": "pomeranian-ace-boy",
+      "breed": null,
+      "sex": "boy",
+      "age": "",
+      "description": "",
+      "status": "gone-home",
+      "photos": [
+        "/site-assets/b106f97f86fd18bf.webp"
+      ],
+      "order": 15
+    },
+    {
+      "name": "Leo",
+      "slug": "poodle-leo-male",
+      "breed": null,
+      "sex": "boy",
+      "age": "",
+      "description": "",
+      "status": "gone-home",
+      "photos": [
+        "/site-assets/4e5231cc9df25721.webp"
+      ],
+      "order": 16
+    },
+    {
+      "name": "Mia",
+      "slug": "maltipoo-mia-girl",
+      "breed": null,
+      "sex": "boy",
+      "age": "",
+      "description": "",
+      "status": "gone-home",
+      "photos": [
+        "/site-assets/c04393d0775f6520.webp"
+      ],
+      "order": 17
+    },
+    {
+      "name": "Sadie",
+      "slug": "maltipoo-sadie-girl",
+      "breed": null,
+      "sex": "boy",
+      "age": "",
+      "description": "",
+      "status": "gone-home",
+      "photos": [
+        "/site-assets/755d664d42273680.webp"
+      ],
+      "order": 18
+    },
+    {
+      "name": "Pomeranian",
+      "slug": "blue-marle-pomeranian",
+      "breed": null,
+      "sex": "boy",
+      "age": "",
+      "description": "",
+      "status": "gone-home",
+      "photos": [
+        "/site-assets/aeb33be0130d1ee3.webp"
+      ],
+      "order": 19
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Are your puppies vaccinated and health-checked?",
+      "answer": "Yes. All our puppies come with a verified health certificate from licensed vets. Every puppy is vaccinated, dewormed, and thoroughly checked before joining your family.",
+      "published": true,
+      "order": 0
+    },
+    {
+      "question": "Can I meet a puppy before I decide?",
+      "answer": "Yes. Come meet our locally available puppies in our Downtown Dubai showroom and spend time bonding before making your decision.",
+      "published": true,
+      "order": 1
+    },
+    {
+      "question": "Can I take my puppy home the same day?",
+      "answer": "Local puppies are available immediately, so you can take your puppy home the same day.",
+      "published": true,
+      "order": 2
+    },
+    {
+      "question": "Do you import puppies from abroad?",
+      "answer": "Yes. Through our Order Upon Request service we source rare and premium teacup breeds from the most reputable, certified breeders across Europe, Korea, and beyond \u2014 and we handle the import for you.",
+      "published": true,
+      "order": 3
+    },
+    {
+      "question": "How does an imported puppy travel to Dubai?",
+      "answer": "We manage every part of the import process, including health checks, travel arrangements, and the necessary documentation, so your puppy arrives happy, healthy, and stress-free.",
+      "published": true,
+      "order": 4
+    },
+    {
+      "question": "Will I see photos and health details first?",
+      "answer": "Yes. Photos, videos, and health certificates are shared before your puppy travels, and our team sends real photos and health details directly on WhatsApp.",
+      "published": true,
+      "order": 5
+    },
+    {
+      "question": "Do you deliver?",
+      "answer": "Yes. We deliver within Dubai, and our trusted international cargo partners deliver puppies safely to loving homes all around the world.",
+      "published": true,
+      "order": 6
+    },
+    {
+      "question": "Which breeds do you usually have?",
+      "answer": "Breeds we regularly have include Maltipoo, Pomeranian, Poodle and Bichon, plus rare teacup lines such as Korean teacup poodles, Maltese, Pom and Yorkie.",
+      "published": true,
+      "order": 7
+    },
+    {
+      "question": "Is there help after my puppy comes home?",
+      "answer": "Yes. Our team is available 24/7 and offers advice on training, nutrition, and general care to ensure a smooth transition for you and your new furry friend.",
+      "published": true,
+      "order": 8
+    }
+  ],
+  "stories": [
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/6f266526d1270c23.webp",
+      "published": true,
+      "order": 0
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/071ab76056e2136a.webp",
+      "published": true,
+      "order": 1
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/3378ff13a86b184e.webp",
+      "published": true,
+      "order": 2
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/be3d28a2dd03a866.webp",
+      "published": true,
+      "order": 3
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/68d42fcff54f4333.webp",
+      "published": true,
+      "order": 4
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/03a55ee2f7befb0a.webp",
+      "published": true,
+      "order": 5
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/3bbf9025db3545ab.webp",
+      "published": true,
+      "order": 6
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/a9f18c9fdb48c131.webp",
+      "published": true,
+      "order": 7
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/d4d5b706897c67d4.webp",
+      "published": true,
+      "order": 8
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/1cb1fca997e29812.webp",
+      "published": true,
+      "order": 9
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/ae37b5f1c77731bd.webp",
+      "published": true,
+      "order": 10
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/7f1b01105e625ad9.webp",
+      "published": true,
+      "order": 11
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/5c4d74f4ae1e2787.webp",
+      "published": true,
+      "order": 12
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/7e407974c4e09f02.webp",
+      "published": true,
+      "order": 13
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/abbd85c72da022cd.webp",
+      "published": true,
+      "order": 14
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/e7a4a169c962a0cf.webp",
+      "published": true,
+      "order": 15
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/9a7ef487d10c739c.webp",
+      "published": true,
+      "order": 16
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/af511207e1645f17.webp",
+      "published": true,
+      "order": 17
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/d5bd142be17bc55c.webp",
+      "published": true,
+      "order": 18
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/237ba5b805243cdb.webp",
+      "published": true,
+      "order": 19
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/cafe759e0d93833b.webp",
+      "published": true,
+      "order": 20
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/882f26821576d06b.webp",
+      "published": true,
+      "order": 21
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/dfdef0a5c9f647b9.webp",
+      "published": true,
+      "order": 22
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/e7fba3883e5e3bd3.webp",
+      "published": true,
+      "order": 23
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/d7365f222537079d.webp",
+      "published": true,
+      "order": 24
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/f8194a24833d9e5f.webp",
+      "published": true,
+      "order": 25
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/fe9ea0fe2845e4fb.webp",
+      "published": true,
+      "order": 26
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/7a04c7294fee3f35.webp",
+      "published": true,
+      "order": 27
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/84f93a268236bf64.webp",
+      "published": true,
+      "order": 28
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/8a0c086d7f9378f2.webp",
+      "published": true,
+      "order": 29
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/247dc43d95a14c06.webp",
+      "published": true,
+      "order": 30
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/d8098bac8ec4f839.webp",
+      "published": true,
+      "order": 31
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/1915fb2be70444bd.webp",
+      "published": true,
+      "order": 32
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/acaab1415ecb3a80.webp",
+      "published": true,
+      "order": 33
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/259b4a644a3af7b4.webp",
+      "published": true,
+      "order": 34
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/59b3fd478925c784.webp",
+      "published": true,
+      "order": 35
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/c4b28c315e12a98e.webp",
+      "published": true,
+      "order": 36
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/29b31e9546f314e5.webp",
+      "published": true,
+      "order": 37
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/4f24755fa2a12d23.webp",
+      "published": true,
+      "order": 38
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/914447b7d0e4a28c.webp",
+      "published": true,
+      "order": 39
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/85fd1051adfcd21e.webp",
+      "published": true,
+      "order": 40
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/7d92aeb7cb884745.webp",
+      "published": true,
+      "order": 41
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/1b06d5434e3a3791.webp",
+      "published": true,
+      "order": 42
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/5278968c71627579.webp",
+      "published": true,
+      "order": 43
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/211b7aebbb9e287d.webp",
+      "published": true,
+      "order": 44
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "Lulu \ud83e\uddf8 with her new mummy \u2764\ufe0f",
+      "photo": "/site-assets/9532e6f5ca8d79fa.webp",
+      "published": true,
+      "order": 45
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "Adorable Maltipoo baby \ud83e\uddf8\u2764\ufe0f",
+      "photo": "/site-assets/ae1e73889cc28c26.webp",
+      "published": true,
+      "order": 46
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "My new teddy puppy \ud83e\udd70\ud83e\uddf8",
+      "photo": "/site-assets/abde9993be84d1f6.webp",
+      "published": true,
+      "order": 47
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "Our new puppies \ud83e\uddf8\ud83e\udd70\ud83e\udd17",
+      "photo": "/site-assets/21f0ff0f03e7b52c.webp",
+      "published": true,
+      "order": 48
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "New puppy \ud83e\uddf8\ud83d\ude0d",
+      "photo": "/site-assets/62a6116b9785ba0e.webp",
+      "published": true,
+      "order": 49
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "Gang of 3 \ud83d\ude0d\ud83e\uddf8",
+      "photo": "/site-assets/b4bdb261fd71d3a2.webp",
+      "published": true,
+      "order": 50
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "So happy \ud83d\ude0d\ud83d\ude0d",
+      "photo": "/site-assets/187e9356cea373bb.webp",
+      "published": true,
+      "order": 51
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/e738d626a5a07271.webp",
+      "published": true,
+      "order": 52
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/86f6357ed68482b9.webp",
+      "published": true,
+      "order": 53
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/f1e63b22f0736981.webp",
+      "published": true,
+      "order": 54
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/d6f2f9740a1a421f.webp",
+      "published": true,
+      "order": 55
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/3da5f2af30ece39e.webp",
+      "published": true,
+      "order": 56
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/1948fa679fc47be6.webp",
+      "published": true,
+      "order": 57
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "New pup \ud83e\udd17\ud83d\udcab",
+      "photo": "/site-assets/9b347acabb6a1f9b.webp",
+      "published": true,
+      "order": 58
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/4ce10b186a68ef6b.webp",
+      "published": true,
+      "order": 59
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/2461308eb9b972ec.webp",
+      "published": true,
+      "order": 60
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/8f922a05df532c7f.webp",
+      "published": true,
+      "order": 61
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/b823ad089066d3a3.webp",
+      "published": true,
+      "order": 62
+    },
+    {
+      "name": "A happy TeddyPups family with their new puppy",
+      "caption": "",
+      "photo": "/site-assets/35d0d1c9558be435.webp",
+      "published": true,
+      "order": 63
+    }
+  ]
+}
